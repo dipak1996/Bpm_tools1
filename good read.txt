@@ -1,0 +1,55 @@
+************Good Read Links****************
+1.cursor
+ https://www.webcodeexpert.com/2013/11/what-is-cursor-advantages-and.html
+ 
+ 
+2. Anugalar 2 tutorial 
+https://www.youtube.com/watch?v=C8JcGqQdcPI
+
+3.Anugalr 5 tutorial
+
+https://www.youtube.com/watch?v=P1mlC8Ar0_k
+
+4.java configuration example
+https://www.youtube.com/watch?v=kTseLY5e8i4
+
+5.@transactional management working
+https://www.youtube.com/watch?v=iDRPHQ52pns&spfreload=10
+
+6.Good example for Spring Mvc +hibernate+ maven crud operation by codegeeks
+-https://www.javacodegeeks.com/2013/04/spring-mvc-hibernate-maven-crud-operations-example.html
+
+7.Good Example for spring boot with jparepository with good brief explaination
+https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/
+
+@@@@@@@@@@@@@@@@@@@@@@@2
+-Questions for angular 
+1.Protecting rounting with gaurd.
+
+
+8.Spring boot with spring security,jwt,mysql, react app link by callicoder
+https://www.callicoder.com/spring-boot-spring-security-jwt-mysql-react-app-part-1/
+
+9.Good link of All Hibernate Mapping example with spring boot by callicoder
+
+-https://www.callicoder.com/hibernate-spring-boot-jpa-one-to-many-mapping-example/
+-https://github.com/callicoder/jpa-hibernate-tutorials
+
+-Working Link for onettomany
+https://howtodoinjava.com/hibernate/hibernate-one-to-many-mapping-using-annotations/
+
+-******(must watch)Good working vidoes for hibernate mapping**************
+https://www.youtube.com/watch?v=zbH59X281f4&list=PLaYuiT1NeQo2cIIrlQ9ADrU2UnQhJDmL7&index=4
+
+10.Good link for all good example poc
+https://github.com/Java-Techie-jt
+
+11.Good read for differance between compostion and inheritance
+https://javarevisited.blogspot.com/2015/06/difference-between-inheritance-and-Composition-in-Java-OOP.html 
+
+
+12.Spring AOP
+https://www.youtube.com/watch?v=Og9Fyew8ltQ
+
+13.implementation Of BST in java
+https://www.youtube.com/watch?v=81PpYQ0AN_w&spfreload=10

@@ -1,0 +1,59 @@
+1.Java 8 
+--------
+Video content: 
+--------------
+#. Joe james(Stream): https://www.youtube.com/watch?v=t1-YZ6bF-g0
+#. Tech primers(Stream): https://www.youtube.com/watch?v=vHwToYEYvsU&list=PLTyWtrsGknYdqY_7lwcbJ1z4bvc5yEEZl
+#github java 8 by tech primers
+https://github.com/TechPrimers/functional-programming/blob/master/src/main/java/FilterExample.java
+
+Theory:
+--------
+#. https://howtodoinjava.com/java8/java-streams-by-examples/
+
+IQ:
+---
+#. https://www.journaldev.com/8697/javase8-interview-questions-part1
+#. https://www.journaldev.com/10081/javase8-interview-questions-part2
+
+
+2.GIT
+------
+Video: https://www.youtube.com/watch?v=Y9XZQO1n_7c
+
+3. Comparator & Comparable
+---------------------------
+Video: https://www.youtube.com/watch?v=oAp4GYprVHM
+
+4.Hibernate
+
+###diff btwn 1st level and second level cache: https://javarevisited.blogspot.com/2017/03/difference-between-first-and-second-level-cache-in-Hibernate.html
+#Get vs Load: https://www.youtube.com/watch?v=W6vPLnoraqM
+#n+1 Problem: https://www.youtube.com/watch?v=KuCqVD9rDqA&pbjreload=10
+#Dirty Checking: https://www.youtube.com/watch?v=juAo3vfcVIw
+#IQ: https://www.journaldev.com/3633/hibernate-interview-questions-and-answers
+#First level cache: https://www.journaldev.com/2969/hibernate-caching-first-level-cache
+#Second level chace: https://www.youtube.com/watch?v=TCHm1h7rBmo
+#Second level chace with Query: https://www.youtube.com/watch?v=2hYtMfQ2TnQ
+
+5.Spring MVC Configuration
+
+#Java Based Configuration: https://www.youtube.com/watch?v=kTseLY5e8i4
+	http://websystique.com/spring/spring4-hibernate4-mysql-maven-integration-example-using-annotations/
+	
+#Spring MVC + Hibernate 5 Configuration: https://www.youtube.com/watch?v=8bNroAFvHHY
+
+
+6.Internal Working of HashSet: https://www.geeksforgeeks.org/internal-working-of-sethashset-in-java/
+7.Internal Working of HashMap: https://www.geeksforgeeks.org/java-util-hashmap-in-java/
+
+8.Spring AOP: https://www.youtube.com/watch?v=Ft29HgsePfQ
+			  https://www.youtube.com/watch?v=Og9Fyew8ltQ
+			  
+			  
+9.Transactional with proxy concept: https://www.youtube.com/watch?v=iDRPHQ52pns&spfreload=10
+
+10.-Good working link passing basic auth as hearder in resttemplate.
+https://www.baeldung.com/how-to-use-resttemplate-with-basic-authentication-in-spring
+-Good links for get and post in resttemplate with all methods.
+https://www.baeldung.com/spring-rest-template-list
